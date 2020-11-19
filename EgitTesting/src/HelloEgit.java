@@ -6,7 +6,9 @@ public class HelloEgit {
 		System.out.println("Successful Second Commit");
 		//System.out.println("Successful third Commit");
 		
-		//Changes made in EGIT 
+		//Changes made in browser
+		
+		//Changes made in egit
 	}
 
 }
