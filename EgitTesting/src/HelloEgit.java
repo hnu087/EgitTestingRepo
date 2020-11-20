@@ -9,6 +9,8 @@ public class HelloEgit {
 		//Changes made in browser
 		
 		//Changes made in egit
+		
+		System.out.println("changes in new branch");
 	}
 
 }
